@@ -63,6 +63,10 @@ section {
 
 @media print, screen and (max-width: 950px) {
 
+  div.background {
+    background-image: url('http://drive.google.com/uc?export=view&id=0B58UBdS465A_U01ncTEwVU8tdDQ');
+  }
+
   div.content {
     background: rgba(255, 255, 255, 0.75);
     border-radius: 3px;
