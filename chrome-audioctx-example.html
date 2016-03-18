@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Example</title>
+</head>
+<body>
+  Having more than 6 tabs opened from this link will result in an error:<br/>
+  <a href="#" target="_blank" title="_blank target">_blank target</a><br/>
+  Having more than 6 tabs opened from these links works fine:<br/>
+  <a href="#" target="something" title="nonempty target">nonempty target</a><br/>
+  <a href="#" title="no target">no target</a><br/> <br/>
+</body>
+<script>
+  try {
+    new AudioContext();
+    document.write('AudioContext was created.');
+  } catch(err) {
+    document.write('Error creating AudioContext:' + err.toString());
+  }
+</script>
+</html>
