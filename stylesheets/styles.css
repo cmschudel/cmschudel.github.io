@@ -63,14 +63,14 @@ section {
 
 @media print, screen and (max-width: 1800px) {
   div.background {
-    background-image: url('http://drive.google.com/uc?export=view&id=0B58UBdS465A_N2pvZk5xODEzMkk')
+    background-image: url('http://drive.google.com/uc?export=view&id=0B58UBdS465A_N2pvZk5xODEzMkk&resourcekey=0-yPmCAtV33_ct_mAloold8A')
   }
 }
 
 @media print, screen and (max-width: 950px) {
 
   div.background {
-    background-image: url('http://drive.google.com/uc?export=view&id=0B58UBdS465A_U01ncTEwVU8tdDQ');
+    background-image: url('http://drive.google.com/uc?export=view&id=0B58UBdS465A_U01ncTEwVU8tdDQ&resourcekey=0-BapllapMoKVytMLe97AYMg');
   }
 
   div.content {
