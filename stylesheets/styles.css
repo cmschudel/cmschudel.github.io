@@ -11,7 +11,7 @@ body {
 }
 
 .background {
-  background-image: url('https://drive.google.com/uc?export=view&id=1dhXb09Yi5i77CqpoficXwSvgzha6T8m0&resourcekey=0-CyvPC6TShMGhe7-LRCRi8g');
+  background-image: url('P1040793f_2400x1600.jpg');
   background-size: cover;
   height: 100%;
   left: 0;
@@ -61,16 +61,16 @@ section {
   float: right;
 }
 
-@media print, screen and (max-width: 1800px) {
+@media print, screen and (max-width: 1920px) {
   div.background {
-    background-image: url('https://drive.google.com/uc?export=view&id=0B58UBdS465A_N2pvZk5xODEzMkk&resourcekey=0-yPmCAtV33_ct_mAloold8A')
+    background-image: url('P1040793f_1920x1080.jpg')
   }
 }
 
 @media print, screen and (max-width: 950px) {
 
   div.background {
-    background-image: url('https://drive.google.com/uc?export=view&id=0B58UBdS465A_U01ncTEwVU8tdDQ&resourcekey=0-BapllapMoKVytMLe97AYMg');
+    background-image: url('P1040793f_sm.JPG');
   }
 
   div.content {
